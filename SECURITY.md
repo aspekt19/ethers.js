@@ -30,5 +30,4 @@ immediately.
 I try to respond within the same day and will address any concern as quickly
 as possible (including code fixes and publishing to NPM).
 
-Any vulnerability will also be published to this file, along with credits,
-pertinent information and links to fixes.
+
