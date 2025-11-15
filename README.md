@@ -133,8 +133,5 @@ packages designed to further enhance the functionality and experience.
 - [LedgerSigner](https://github.com/ethers-io/ext-signer-ledger) - A Signer to interact directly with Ledger Hardware Wallets
 
 
-License
--------
 
-MIT License (including **all** dependencies).
 
